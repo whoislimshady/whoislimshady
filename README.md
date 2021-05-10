@@ -4,6 +4,7 @@
 ![](https://activity-graph.herokuapp.com/graph?username=whoislimshady&theme=react-dark&hide_border=true&area=true)
 
 <img height=200 width=350 src="avatar.png">
+
 ## I'm a ML/DL dev Developer, and undergrad!!
 
 - 🔭 I just launched my first website: [To solve industry problems!][let's discuss]!
@@ -44,6 +45,16 @@
 
  [more blog posts...](https://whoisslimshady.medium.com/)
 
+## Github Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=whoislimshady">
+
+<img src="https://github-readme-stats.vercel.app/api?username=whoislimshady&count_private=true&show_icons=true&theme=light" alt="Harsh's github stats"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoislimshady&layout=compact&theme=light"/>
+
+
+<br>
 
 [website]: https://flywithai.codes
 [let's discuss]: https://flywithai.codes
