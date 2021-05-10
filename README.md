@@ -35,10 +35,6 @@
 [<img align="left" alt="Python" width="26px" src="https://e7.pngegg.com/pngimages/969/723/png-clipart-functional-programming-in-python-computer-programming-programming-language-python-programming-practice-workshop-program-logo-text-logo.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-
 <br />
 <br />
 
@@ -53,7 +49,7 @@
 - [introduction to TensorFlow 2.0](https://whoisslimshady.medium.com/introduction-to-tensorflow-2-0-a4d277b89168)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://whoisslimshady.medium.com/)
+ [more blog posts...](https://whoisslimshady.medium.com/)
 
 
 [website]: https://flywithai.codes
