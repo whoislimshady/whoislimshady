@@ -1,7 +1,9 @@
 ### Hi there, I'm Harsh - aka [slim shady][website] 👋
 
 
+![](https://activity-graph.herokuapp.com/graph?username=whoislimshady&theme=react-dark&hide_border=true&area=true)
 
+<img height=200 width=350 src="avatar.png">
 ## I'm a ML/DL dev Developer, and undergrad!!
 
 - 🔭 I just launched my first website: [To solve industry problems!][let's discuss]!
