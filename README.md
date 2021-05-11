@@ -7,7 +7,7 @@
 
 ## I'm a ML/DL dev Developer, and undergrad!!
 
-- 🔭 I just launched my first website: [To solve industry problems!][let's discuss]!
+- 🔭 With the help of experienced machine learning researcher we started a startup: [To solve industry problems!][let's discuss]!
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
